@@ -12,7 +12,7 @@ body {
 
 header {
     font-family: "maths";
-    background-color: #ff69a6;
+    background-color: #a0004f;
     color: white;
     text-align: center;
     padding: 30px;
@@ -46,7 +46,7 @@ nav a {
 
 nav a:hover {
     background-color: white;
-    color: #ff69a6;
+    color: #a0004f;
 }
 
 
@@ -70,7 +70,7 @@ section {
 }
 
 section h2 {
-    color: #e83e8c;
+    color: #a0004f;
     font-size: 28px;
     font-weight: 700;
 }
@@ -92,7 +92,7 @@ li {
 section:nth-child(3) p {
     background-color: #fff0f6;
     padding: 15px;
-    border-left: 5px solid #ff69a6;
+    border-left: 5px solid #a0004f;
     border-radius: 8px;
 }
 
@@ -115,7 +115,7 @@ section img:hover {
 /* Final section */
 
 section:last-child {
-    background-color: #ff69a6;
+    background-color: #a0004f;
     color: white;
     text-align: center;
 }
@@ -185,7 +185,7 @@ section:last-child h2 {
 /* Small headings */
 
 .small-heading {
-    color: #ec268f;
+    color: #a0004f;
     font-size: 11px;
     letter-spacing: 4px;
     font-weight: bold;
