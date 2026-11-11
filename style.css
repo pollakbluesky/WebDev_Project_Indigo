@@ -37,7 +37,7 @@ nav {
 
 nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: 600;
     margin: 0 15px;
     padding: 8px 15px;
@@ -72,6 +72,7 @@ section {
 section h2 {
     color: #e83e8c;
     font-size: 28px;
+    font-weight: 700;
 }
 
 
